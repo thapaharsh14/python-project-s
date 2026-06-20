@@ -1,0 +1,41 @@
+Order_ID,Date,Product,Category,Quantity,Price
+1001,30-06-2026,USB Cable,Accessories,6,300
+1002,27-06-2026,Desk,Furniture,1,7000
+1003,06-06-2026,Bookshelf,Furniture,2,6000
+1004,19-06-2026,Headphones,Electronics,2,2500
+1005,17-06-2026,Table,Furniture,7,9000
+1006,20-06-2026,Bookshelf,Furniture,7,6000
+1007,23-06-2026,Pen Drive,Accessories,6,700
+1008,18-06-2026,Monitor,Electronics,3,12000
+1009,26-06-2026,Chair,Furniture,2,3500
+1010,27-06-2026,Chair,Furniture,6,3500
+1011,26-06-2026,Desk,Furniture,7,7000
+1012,29-06-2026,Keyboard,Electronics,7,1500
+1013,14-06-2026,Mouse,Electronics,5,800
+1014,17-06-2026,Mouse,Electronics,2,800
+1015,01-06-2026,Chair,Furniture,6,3500
+1016,09-06-2026,Speaker,Accessories,5,3500
+1017,28-06-2026,Bookshelf,Furniture,1,6000
+1018,26-06-2026,Webcam,Accessories,6,2200
+1019,02-06-2026,Printer,Electronics,4,9000
+1020,07-06-2026,Chair,Furniture,1,3500
+1021,11-06-2026,Monitor,Electronics,5,12000
+1022,09-06-2026,Pen Drive,Accessories,8,700
+1023,10-06-2026,Chair,Furniture,4,3500
+1024,25-06-2026,USB Cable,Accessories,2,300
+1025,11-06-2026,Pen Drive,Accessories,3,700
+1026,29-06-2026,Pen Drive,Accessories,2,700
+1027,03-06-2026,Bookshelf,Furniture,7,6000
+1028,06-06-2026,Speaker,Accessories,3,3500
+1029,12-06-2026,Table,Furniture,8,9000
+1030,10-06-2026,Pen Drive,Accessories,8,700
+1031,25-06-2026,Keyboard,Electronics,4,1500
+1032,01-06-2026,USB Cable,Accessories,5,300
+1033,24-06-2026,Speaker,Accessories,4,3500
+1034,16-06-2026,Bookshelf,Furniture,8,6000
+1035,24-06-2026,Mouse,Electronics,2,800
+1036,28-06-2026,Table,Furniture,6,9000
+1037,16-06-2026,Pen Drive,Accessories,4,700
+1038,13-06-2026,Desk,Furniture,3,7000
+1039,10-06-2026,Laptop,Electronics,7,55000
+1040,24-06-2026,Chair,Furniture,5,3500
